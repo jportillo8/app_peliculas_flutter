@@ -10,49 +10,30 @@
 ------------------------
 
 **Base de Datos FIREBASE/CloudFirestore**
-1. FIREBASE (https://firebase.google.com/) -> Datos de conferencias y autores
+1. API (https://developers.themoviedb.org) -> -Listado de Peliculas
 
 # IMPLEMENTACIONES DEL PROYECTO
 ------------------------------    
-    * Diseño de la interfaz usando xml y metodo grafico
-    * Lectura y escritura de la base de datos
-    * Android jetPack / navegacion-viewmodel-livedata
-    * Google maps
+    * Diseño de la interfaz usando widgets
+    * Uso de API / Provider y HTTP
 
 # FUNCIONALIDAD DEL PROYECTO
 ------------------------------
 
-Este proyecto permite al usuario enterarse de conferecias definidas en un evento
-conocer la fecha y lugar y presentador de la conferencia.
-Tambien tiene un apartado de mas informacion, donde el usuario dispone de informacion
-mas detallada
+Este proyecto permite el cosnumo de una API de peliculas recientes y populares
 
-Presentarion o lobby 
+Carrusel de peliculas mas vistas y peliculas populares
 ====
 
-El lobby nos presenta el evento
+Listado de peliculas
 
-<img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636048565/gm23zwbrn044cpypnzob.jpg" height="680px" width="380px">
+<img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636048566/xwjtuztiabhstexlhkji.jpg" height="680px" width="380px">
 
-Lista de conferecias
+Detalles y resumen de la pelicula seleccionada
 ====
-Nos muestra la lista y fecha de las conferencias
+Mas info de la pelicula con los actores participantes
 
-<img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636048566/afq7jo1c0wlu2xo7cdao.jpg" height="680px" width="380px">
-
-
-Mas información
-====
-Desplega mas informacion acerca de la conferencia seleccionada
-
-<img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636048567/bcb1ycmyhwz5t0zrccj7.jpg" height="680px" width="380px">
-
-
-Implementacion del mapa en la aplicacion
-====
-Es una vista de la ubicacion actual del usuario predefinida
-
-<img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636048566/r06yz7nb0dqxy2vkoh81.jpg" height="680px" width="380px">
+<img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636048566/zhbyqtymipygk19gmhfk.jpg" height="680px" width="380px">
 
 
 ------------------------------
